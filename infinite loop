@@ -1,0 +1,4 @@
+while True : 
+    C=float(input("enter weather degree in celsius"))
+    F=1.8*C+32
+    print("farenheit: ",F)
