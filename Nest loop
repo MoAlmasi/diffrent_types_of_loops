@@ -1,0 +1,5 @@
+students=["Joe","John","Jerry"]
+courses=["C1","C2","C3"]
+for x in students: #Outer loop
+    for y in courses: #Inner loop
+        print(x," ",y)
